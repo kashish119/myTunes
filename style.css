@@ -76,7 +76,7 @@ nav ul li:hover {
   transition: 0.2s ease-in;
 }
 .hero-section {
-  background-image: url(images/hero_image.png);
+  background-image: url(hero_image.png);
   height: 100vh;
   display: grid;
   color: white;
@@ -135,7 +135,7 @@ nav ul li:hover {
 }
 
 .video-section {
-  background-image: url(images/video.png);
+  background-image: url(video.png);
   min-height: 800px;
   display: grid;
   place-items: center;
